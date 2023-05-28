@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git fetch origin && git checkout master && git pull origin master
+=======
+git fetch origin && git checkout main && git pull origin main
+
+>>>>>>> e0580316fdf873e4caef0f9f8cdb3bb9bd89e438
